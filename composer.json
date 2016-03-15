@@ -1,6 +1,6 @@
 {
 	"name": "hypejunction/maps_geocoder",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "elgg-plugin",
 	"description": "Geocoder for Elgg",
 	"homepage": "http://hypejunction.com",
