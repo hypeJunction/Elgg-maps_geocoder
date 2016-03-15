@@ -1,0 +1,23 @@
+{
+	"name": "hypejunction/maps_geocoder",
+	"version": "0.0.0",
+	"type": "elgg-plugin",
+	"description": "Geocoder for Elgg",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin", "google", "api", "maps", "geocoding"
+	],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5",
+		"composer/installers": "~1.0",
+		"hypejunction/google_client": "~1.0"
+	}
+}
+
